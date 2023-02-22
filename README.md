@@ -426,3 +426,83 @@ Componente donde se visualiza la informacion del producto con su respectivo rati
 
 ![](https://i.imgur.com/TmhpAXj.png)
 [Subir](#top)
+
+
+<a name="item41"></a>
+### ProductHorizontalCard.js
+
+Card component donde se visualiza mis productos y tiendas favoritas
+
+![](https://i.imgur.com/QvCtRoU.png)
+[Subir](#top)
+
+<a name="item42"></a>
+### ProductImagesCarousel.js
+
+Componente que mediante el efecto slider muestra las diferentes imagenes de un producto.
+
+![](https://i.imgur.com/rJzz6EC.png)
+[Subir](#top)
+
+<a name="item43"></a>
+### ProductModal.js
+
+Componente que se encarga que luego de haber elegido la compra del producto abre una ventana modal para añadir al carrito de compras el respectivo producto.
+
+![]([https://i.imgur.com/rJzz6EC.png](https://i.imgur.com/VAOLCVu.png))
+[Subir](#top)
+
+<a name="item44"></a>
+### ProductProfile.js
+
+Componete que describe a detalles las caracteristicas del producto, como su nombre lo indica hace referencia a detalles especificos del mismo.
+
+![](https://i.imgur.com/KFBRShp.png)
+[Subir](#top)
+
+<a name="item45"></a>
+### ProductsAdsSlider.js
+
+Componente con efecto slider para mostrar las card de ofertas y productos
+
+![](https://i.imgur.com/axG1Jdh.png)
+[Subir](#top)
+
+<a name="item46"></a>
+### ProductsCollection.js
+
+Componete padre que se encarga de distribuir los demas componentes hijos para su distribucion en la vista ademas donde se redireciona a una vista mas detallada del producto.
+
+![](https://i.imgur.com/XYb9dto.png)
+[Subir](#top)
+
+<a name="item47"></a>
+### ProductsFilters.js
+
+Componente encargado de filtrar los resultados ya se a por por ratin caregoria y etiqueta
+
+![](https://i.imgur.com/NRPjoUX.png)
+[Subir](#top)
+
+<a name="item48"></a>
+### ProductsGrid.js
+
+Componente donde se visualizan los elementos por grilla
+
+![](https://i.imgur.com/bNABrAp.png)
+[Subir](#top)
+
+<a name="item49"></a>
+### QuestionsAnswer.js
+
+Componente usado para que los clientes hagan preguntas a los tiendas sobre cualquier duda que tengan.
+
+![](https://i.imgur.com/DcsMxJe.png)
+[Subir](#top)
+
+<a name="item50"></a>
+### 
+
+
+![]()
+[Subir](#top)

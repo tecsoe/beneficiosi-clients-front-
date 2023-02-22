@@ -169,7 +169,7 @@ Componente que contiene las diferentes cards de las agencias bancarias y superme
 ---
 Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas.
 
-![](https://i.imgur.com/FxlH1yr.png)
+![](https://i.imgur.com/dqLmVYV.png)
 [Subir](#top)
 
 <a name="item10"></a>
@@ -188,3 +188,77 @@ Componente encargado para la vista del pie de pagina del sitio, contiene element
 
 ![](https://i.imgur.com/xBPihZX.png)
 [Subir](#top)
+
+<a name="item12"></a>
+### LeftSidebarLayout.js
+---
+Componente padre que contiene los elementos del sidebar y del body de la pagina donde se pueden apreciar las agencias bancarias los supermecados entes y tiendas.
+
+![]https://i.imgur.com/RDdV2Ax.png)
+[Subir](#top)
+
+<a name="item13"></a>
+### NavLinks.js
+---
+Componente que contiene los botones de Comprar ayuda y ingresar.
+
+![](https://i.imgur.com/T25jQZT.png)
+[Subir](#top)
+
+<a name="item14"></a>
+### NavSearchBar.js
+---
+Componente que contiene los botones de buscar.
+
+![](https://i.imgur.com/xBPihZX.png)
+[Subir](#top)
+
+<a name="item15"></a>
+### Navbar.js
+---
+Contiene la parte superior del header donde se ubica los items que direcciona la navegación del usuario que contiene el componente NavLinks, NavSearchBar. Tambien esta compuesto por la franga roja que contiene localizacion, ofretas, servicios y comercios.
+
+![](https://i.imgur.com/sQH93oK.png)
+[Subir](#top)
+
+<a name="item16"></a>
+### PageLogo.js
+---
+Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que varia desde un rango desde el mas valorado hast ael menos valorado.
+
+![](https://i.imgur.com/0PD6ZOW.png)
+[Subir](#top)
+
+<a name="item17"></a>
+### RatingsFilter.js
+---
+Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio.
+
+![](https://i.imgur.com/kzIls4O.png)
+[Subir](#top)
+
+<a name="item18"></a>
+### SelectCardsList.js
+---
+Titulación de las secciones. Recibe parametro de texto modificable, debido a que se utiliza en varias secciones del Home.
+
+![](https://i.imgur.com/X28kSxn.png)
+[Subir](#top)
+
+<a name="item19"></a>
+### SelectUserToLogin.js
+---
+Componente encargado del diseño de seleccion de si eres user o tienda.
+
+![](https://i.imgur.com/IoXxBH0.png)
+[Subir](#top)
+
+<a name="item20"></a>
+### StoreDiscountCard.js
+---
+Componente encargado de mostrar la tarjeta de descuento por tienda.
+
+![](https://i.imgur.com/NzCfUIz.png)
+[Subir](#top)
+
+

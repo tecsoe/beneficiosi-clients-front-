@@ -266,7 +266,7 @@ Componente que filtra resultados por preferencia ya sea por wifi, parques para n
 ---
 Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos.
 
-![](https://i.imgur.com/NzCfUIz.png)
+![](https://i.imgur.com/Ef5YO1W.png)
 [Subir](#top)
 
 <a name="item22"></a>
@@ -275,6 +275,30 @@ Componente que filtra resultados por preferencia ya sea por wifi, parques para n
 Componente con una descripcion de la informacion de la tienda telefono y sus respectivas redes sociales Facebook Instagram y Whatsapp.
 
 ![](https://i.imgur.com/j7pHNdg.png)
+[Subir](#top)
+
+<a name="item23"></a>
+### TagsFilter.js
+
+Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento.
+
+![](https://i.imgur.com/iLIWI2V.png)
+[Subir](#top)
+
+<a name="item24"></a>
+### TagsFilters.js
+
+Componete donde se visualiza y cumple la funcion de visualizar y filtrar los minimos y los maximos de los precios de sus productos
+
+![](https://i.imgur.com/iLIWI2V.png)
+[Subir](#top)
+
+<a name="item25"></a>
+### DiscountModal.js
+
+Componete usado para una ventana emergente para la visualizacion de los bancos afiliados en el descuento de una tienda.
+
+![](https://i.imgur.com/iLIWI2V.png)
 [Subir](#top)
 
 <a name="item22"></a>

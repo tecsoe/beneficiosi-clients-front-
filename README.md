@@ -341,17 +341,88 @@ Componente que muestra de una manera dinamica las difetentes categorias del siti
 [Subir](#top)
 
 <a name="item31"></a>
-### CategoryFilter.js
-
-Componete que filtra las categorias correspondientes dependiendo la tienda si es un cine filtra la categoria por tipo de peliculas, si es un ienda de informatica seria por productos.
-
-![](https://i.imgur.com/Dlx3yNt.png)
-[Subir](#top)
-
-<a name="item32"></a>
 ### CheckoutDetailsCard.js
 
 Componente donde se visualiza los detalles del descuento por la compra del producto, detalles de la compra y direccion de la tienda.
 
-![](https://i.imgur.com/Dlx3yNt.png)
+![](https://i.imgur.com/PVDlrBd.png)
+[Subir](#top)
+
+<a name="item32"></a>
+### CustomInput.js
+
+Componente que se utiliza como un campo de texto para indexar la busqueda de lo que se requiere.
+
+![](https://i.imgur.com/E15zsgP.png)
+[Subir](#top)
+
+<a name="item33"></a>
+### FeaturedStores.js
+
+Componente que muestra todas las tiendas destacadas del marketplace.
+
+![](https://i.imgur.com/aRYpCAt.png)
+[Subir](#top)
+
+<a name="item34"></a>
+### GastronomyFeaturedProducts.js
+
+Componente encargado de mostrar los productos destacados de la categoria de Gatronomia.
+
+![](https://i.imgur.com/gf8Hg5x.png)
+[Subir](#top)
+
+<a name="item34"></a>
+### HomeSlider.js
+
+Componente que me mediante el swiper muestra diferentes imagenes de los tiendas que ofrecen sus servicios y productos.
+
+![](https://i.imgur.com/kXZWM8V.png)
+[Subir](#top)
+
+<a name="item35"></a>
+### MobileAppSection.js
+
+Es un componete dedicado para informacion o algo que el administrador del sitio requiera colocar.
+
+![](https://i.imgur.com/dRwiWeA.png)
+[Subir](#top)
+
+<a name="item36"></a>
+### NecessaryInfo.js
+
+Componente con informacion relevante sobre la seguridad y soporte del marketplace
+
+![](https://i.imgur.com/aHSs5dc.png)
+[Subir](#top)
+
+<a name="item37"></a>
+### Pagination.js
+
+Componente encargado de la navegacion entre paginas de los productos por vista.
+
+![](https://i.imgur.com/p3vfyZd.png)
+[Subir](#top)
+
+<a name="item38"></a>
+### PharmacyFeaturedProducts.js
+
+Componente que muestra los productos destacados de la Categoria Farmacia
+
+![](https://i.imgur.com/JC6Q1S3.png)
+[Subir](#top)
+
+<a name="item39"></a>
+### ProductAdCard.js
+
+Componente donde se visualiza las ofertas de los productos por parte de las tiendas con su respectiva imagen y titulo.
+
+[Subir](#top)
+
+<a name="item40"></a>
+### ProductCard.js
+
+Componente donde se visualiza la informacion del producto con su respectivo rating ademas ademas si se encuentra disponible o no se encuentra en existencia.
+
+![](https://i.imgur.com/TmhpAXj.png)
 [Subir](#top)

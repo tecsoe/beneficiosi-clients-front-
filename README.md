@@ -256,9 +256,31 @@ Componente encargado del diseño de seleccion de si eres user o tienda.
 <a name="item20"></a>
 ### StoreDiscountCard.js
 ---
-Componente encargado de mostrar la tarjeta de descuento por tienda.
+Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos.
 
 ![](https://i.imgur.com/NzCfUIz.png)
 [Subir](#top)
 
+<a name="item21"></a>
+### StoreFeatureFilter.js
+---
+Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos.
 
+![](https://i.imgur.com/NzCfUIz.png)
+[Subir](#top)
+
+<a name="item22"></a>
+### StoreInfo.js
+
+Componente con una descripcion de la informacion de la tienda telefono y sus respectivas redes sociales Facebook Instagram y Whatsapp.
+
+![](https://i.imgur.com/j7pHNdg.png)
+[Subir](#top)
+
+<a name="item22"></a>
+### TagsFilter.js
+
+Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento.
+
+![](https://i.imgur.com/iLIWI2V.png)
+[Subir](#top)

@@ -127,3 +127,64 @@ npm run start
 * [StoreDiscountCard.js](#item203)
 
 
+<a name="item4"></a>
+### dicounts
+---
+Carpeta Principal que se encarga del contener los componentes de Descuento aplicado en la pagina de Beneficio.
+
+[Subir](#top)
+
+<a name="item5"></a>
+### DiscountStoreCard.js
+---
+Componente donde se visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
+
+![](https://i.imgur.com/uJOv7jl.png)
+[Subir](#top)
+
+<a name="item6"></a>
+### DiscountsSlider.js
+---
+Componente encargado del diseño del swiper del componente creado.
+![](https://i.imgur.com/R95hlvr.png)
+[Subir](#top)
+
+<a name="item7"></a>
+### AppLayout.js
+---
+Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este contiene una variable que permite agregar el contenido correspondiente a casa pagina de la aplicacion.
+
+[Subir](#top)
+
+<a name="item8"></a>
+### CardIssuersList.js
+---
+Componente que contiene las diferentes cards de las agencias bancarias y supermercados entes con el respectivo descuento.
+
+![](https://i.imgur.com/FxlH1yr.png)
+[Subir](#top)
+
+<a name="item9"></a>
+### CardsList.js
+---
+Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas.
+
+![](https://i.imgur.com/FxlH1yr.png)
+[Subir](#top)
+
+<a name="item10"></a>
+### Container.js
+---
+Componente de navegacion que contine las diferentes categorias del marketplace como gastronomia espectaculos supermercados boliches y farmacias.
+
+![](https://i.imgur.com/IfTKKfy.png)
+[Subir](#top)
+
+
+<a name="item11"></a>
+### Footers.js
+---
+Componente encargado para la vista del pie de pagina del sitio, contiene elementos para el redirecionamiento de las redes del sitio como Facebook, Twitter, Instagram, Youtube.
+
+![](https://i.imgur.com/xBPihZX.png)
+[Subir](#top)

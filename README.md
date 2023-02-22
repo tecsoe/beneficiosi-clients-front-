@@ -290,7 +290,7 @@ Componente mediante el cual cumple la funcion de filtrar los items por sus respe
 
 Componete donde se visualiza y cumple la funcion de visualizar y filtrar los minimos y los maximos de los precios de sus productos
 
-![](https://i.imgur.com/iLIWI2V.png)
+![](https://i.imgur.com/5204kLy.png)
 [Subir](#top)
 
 <a name="item25"></a>
@@ -298,13 +298,60 @@ Componete donde se visualiza y cumple la funcion de visualizar y filtrar los min
 
 Componete usado para una ventana emergente para la visualizacion de los bancos afiliados en el descuento de una tienda.
 
-![](https://i.imgur.com/iLIWI2V.png)
+![](https://i.imgur.com/HoXCy37.png)
 [Subir](#top)
 
-<a name="item22"></a>
-### TagsFilter.js
+<a name="item26"></a>
+### Map.js
 
-Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento.
+Compoente encargado de añadir la ubicacion geografica del cliente y a su vez realizar la busqueda de tiendas por geolocalizacion
 
-![](https://i.imgur.com/iLIWI2V.png)
+![](https://i.imgur.com/cxtPEfR.png)
+[Subir](#top)
+
+<a name="item27"></a>
+### BolichesFeaturedProducts.js
+
+Componente que muestra los productos mas destacados de la categoria boliches.
+
+![](https://i.imgur.com/EjXNYwT.png)
+[Subir](#top)
+
+<a name="item28"></a>
+### BussinessSection.js
+
+Componente que se encarga de invitar al usuario a registrarse ya sea como usuario cliente o venderdor para disfrutar de los diferentes beneficios que ofrece el marketplace.
+
+![](https://i.imgur.com/vessPc9.png)
+[Subir](#top)
+
+<a name="item29"></a>
+### CategoryFilter.js
+
+Componete que filtra las categorias correspondientes dependiendo la tienda si es un cine filtra la categoria por tipo de peliculas, si es un ienda de informatica seria por productos.
+
+![](https://i.imgur.com/Dlx3yNt.png)
+[Subir](#top)
+
+<a name="item30"></a>
+### CategorySectionCard.js
+
+Componente que muestra de una manera dinamica las difetentes categorias del sitio, donde se redirecciona a la vitrina de productos.
+
+[Subir](#top)
+
+<a name="item31"></a>
+### CategoryFilter.js
+
+Componete que filtra las categorias correspondientes dependiendo la tienda si es un cine filtra la categoria por tipo de peliculas, si es un ienda de informatica seria por productos.
+
+![](https://i.imgur.com/Dlx3yNt.png)
+[Subir](#top)
+
+<a name="item32"></a>
+### CheckoutDetailsCard.js
+
+Componente donde se visualiza los detalles del descuento por la compra del producto, detalles de la compra y direccion de la tienda.
+
+![](https://i.imgur.com/Dlx3yNt.png)
 [Subir](#top)

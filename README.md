@@ -194,7 +194,7 @@ Componente encargado para la vista del pie de pagina del sitio, contiene element
 ---
 Componente padre que contiene los elementos del sidebar y del body de la pagina donde se pueden apreciar las agencias bancarias los supermecados entes y tiendas.
 
-![]https://i.imgur.com/RDdV2Ax.png)
+![](https://i.imgur.com/RDdV2Ax.png)
 [Subir](#top)
 
 <a name="item13"></a>

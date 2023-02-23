@@ -65,117 +65,6 @@ npm run start
 * [QuestionsAnswer.js](#item51)
 
 
-* [BankDiscountCard.js](#item5)
-* [DiscountCardIssuerRow.js](#item6)
-* [DiscountCardRow.js](#item7)
-* [DiscountModal.js](#item8)
-* [DiscountStoreCard.js](#item9)
-* [DiscountsSlider.js](#item10)
-* [StoreDiscountsModal.js](#item11)
-* [googlemaps](#item12)
-* [Map.js](#item13)
-* [MapWithASearchBox.js](#item14)
-* [notifications](#item15)
-* [NotificationRow.js](#item16)
-* [NotificationsComponent.js](#item17)
-* [NotificationsList.js](#item18)
-* [AppLayout.js](#item19)
-* [Badge.js](#item20)
-* [BankExpandableButton.js](#item21)
-* [BolichesFeaturedProducts.js](#item22)
-* [BussinessSection.js](#item23)
-* [Button.js](#item24)
-* [CardIssuersList.js](#item25)
-* [CardsList.js](#item26)
-* [CartsRows.js](#item27)
-* [CategoryCheckbox.js](#item28)
-* [CategorySectionCard.js](#item29)
-* [CategorySubMenu.js](#item30)
-* [ChatAlt2Icon.js](#item31)
-* [CheckoutDetailsCard.js](#item32)
-* [ChevronDoubleLeftIcon.js](#item33)
-* [ChevronDoubleRightIcon.js](#item34)
-* [ChevronDownIcon.js](#item35)
-* [ChevronRightIcon.js](#item36)
-* [Container.js](#item37)
-* [CustomAlert.js](#item38)
-* [CustomInput.js](#item39)
-* [CustomModal.js](#item40)
-* [CustomSelect.js](#item41)
-* [ErrorMsg.js](#item42)
-* [FacebookIcon.js](#item43)
-* [FeaturedStores.js](#item44)
-* [FiltersModal.js](#item45)
-* [Footers.js](#item46)
-* [GastronomyFeaturedProducts.js](#item47)
-* [GridIcon.js](#item48)
-* [HeartIcon.js](#item49)
-* [HomeBanksDiscountsSlider.js](#item50)
-* [HomeSlider.js](#item51)
-* [ImgUploadInput.js](#item52)
-* [InstagramIcon.js](#item53)
-* [LeftSidebarLayout.js](#item54)
-* [LineChart.js](#item55)
-* [ListIcon.js](#item56)
-* [LocationMarker.js](#item57)
-* [MainCategoriesBar.js](#item58)
-* [MapContainer.js](#item59)
-* [MobileAppSection.js](#item60)
-* [MobileMenu.js](#item61)
-* [MyAccountCartsTable.js](#item62)
-* [MyAccountCorvesationsTable.js](#item63)
-* [MyAccountLayout.js](#item64)
-* [NavLinks.js](#item65)
-* [NavSearchBar.js](#item66)
-* [Navbar.js](#item67)
-* [NecessaryInfo.js](#item68)
-* [OrdersRows.js](#item69)
-* [OrdersTable.js](#item70)
-* [PageLogo.js](#item71)
-* [Pagination.js](#item72)
-* [PayMethodSection.js](#item73)
-* [PharmacyFeaturedProducts.js](#item74)
-* [PhoneIcon.js](#item75)
-* [PlusIcon.js](#item76)
-* [PriceFilter.js](#item77)
-* [PrintOrderComponent.js](#item78)
-* [PrivateRoute.js](#item79)
-* [ProductAdCard.js](#item80)
-* [ProductCard.js](#item81)
-* [ProductFeature.js](#item82)
-* [ProductFeatureCheckbox.js](#item83)
-* [ProductFeatureGroup.js](#item84)
-* [ProductFeaturesModal.js](#item85)
-* [ProductHorizontalCard.js](#item86)
-* [ProductImagesCarousel.js](#item87)
-* [ProductLoadingComponent.js](#item88)
-* [ProductProfile.js](#item89)
-* [ProductRatingRow.js](#item90)
-* [ProductToRatingModal.js](#item91)
-* [ProductsAdsSlider.js](#item92)
-* [ProductsCollection.js](#item93)
-* [ProductsFilters.js](#item94)
-* [ProductsGrid.js](#item95)
-* [QuestionsAnswer.js](#item96)
-* [RatingsFilter.js](#item97)
-* [RenderListStoresCategories.js](#item98)
-* [SearchAddressFilter.js](#item99)
-* [SearchInputMobile.js](#item100)
-* [SectionHeading.js](#item101)
-* [Select.js](#item102)
-* [SelectCardsList.js](#item103)
-* [SelectDeliverySection.js](#item104)
-* [SelectGridMode.js](#item105)
-* [SelectUserToLogin.js](#item106)
-* [ShareIcon.js](#item107)
-* [ShowProfile.js](#item108)
-* [ShowsFeaturedProducts.js](#item109)
-* [StarIcon.js](#item200)
-* [StoreCard.js](#item201)
-* [StoreCard.js](#item202)
-* [StoreDiscountCard.js](#item203)
-
-
 <a name="item4"></a>
 ### dicounts
 ---
@@ -421,7 +310,7 @@ Componente encargado de mostrar los productos destacados de la categoria de Gatr
 ![](https://i.imgur.com/gf8Hg5x.png)
 [Subir](#top)
 
-<a name="item34"></a>
+<a name="item35"></a>
 ### HomeSlider.js
 
 Componente que me mediante el swiper muestra diferentes imagenes de los tiendas que ofrecen sus servicios y productos.
@@ -429,7 +318,7 @@ Componente que me mediante el swiper muestra diferentes imagenes de los tiendas 
 ![](https://i.imgur.com/kXZWM8V.png)
 [Subir](#top)
 
-<a name="item35"></a>
+<a name="item36"></a>
 ### MobileAppSection.js
 
 Es un componete dedicado para informacion o algo que el administrador del sitio requiera colocar.
@@ -437,7 +326,7 @@ Es un componete dedicado para informacion o algo que el administrador del sitio 
 ![](https://i.imgur.com/dRwiWeA.png)
 [Subir](#top)
 
-<a name="item36"></a>
+<a name="item37"></a>
 ### NecessaryInfo.js
 
 Componente con informacion relevante sobre la seguridad y soporte del marketplace
@@ -445,7 +334,7 @@ Componente con informacion relevante sobre la seguridad y soporte del marketplac
 ![](https://i.imgur.com/aHSs5dc.png)
 [Subir](#top)
 
-<a name="item37"></a>
+<a name="item38"></a>
 ### Pagination.js
 
 Componente encargado de la navegacion entre paginas de los productos por vista.
@@ -453,7 +342,7 @@ Componente encargado de la navegacion entre paginas de los productos por vista.
 ![](https://i.imgur.com/p3vfyZd.png)
 [Subir](#top)
 
-<a name="item38"></a>
+<a name="item39"></a>
 ### PharmacyFeaturedProducts.js
 
 Componente que muestra los productos destacados de la Categoria Farmacia
@@ -461,14 +350,14 @@ Componente que muestra los productos destacados de la Categoria Farmacia
 ![](https://i.imgur.com/JC6Q1S3.png)
 [Subir](#top)
 
-<a name="item39"></a>
+<a name="item40"></a>
 ### ProductAdCard.js
 
 Componente donde se visualiza las ofertas de los productos por parte de las tiendas con su respectiva imagen y titulo.
 
 [Subir](#top)
 
-<a name="item40"></a>
+<a name="item41"></a>
 ### ProductCard.js
 
 Componente donde se visualiza la informacion del producto con su respectivo rating ademas ademas si se encuentra disponible o no se encuentra en existencia.
@@ -477,7 +366,7 @@ Componente donde se visualiza la informacion del producto con su respectivo rati
 [Subir](#top)
 
 
-<a name="item41"></a>
+<a name="item42"></a>
 ### ProductHorizontalCard.js
 
 Card component donde se visualiza mis productos y tiendas favoritas
@@ -485,7 +374,7 @@ Card component donde se visualiza mis productos y tiendas favoritas
 ![](https://i.imgur.com/QvCtRoU.png)
 [Subir](#top)
 
-<a name="item42"></a>
+<a name="item43"></a>
 ### ProductImagesCarousel.js
 
 Componente que mediante el efecto slider muestra las diferentes imagenes de un producto.
@@ -493,7 +382,7 @@ Componente que mediante el efecto slider muestra las diferentes imagenes de un p
 ![](https://i.imgur.com/rJzz6EC.png)
 [Subir](#top)
 
-<a name="item43"></a>
+<a name="item44"></a>
 ### ProductModal.js
 
 Componente que se encarga que luego de haber elegido la compra del producto abre una ventana modal para añadir al carrito de compras el respectivo producto.
@@ -501,7 +390,7 @@ Componente que se encarga que luego de haber elegido la compra del producto abre
 ![]([https://i.imgur.com/rJzz6EC.png](https://i.imgur.com/VAOLCVu.png))
 [Subir](#top)
 
-<a name="item44"></a>
+<a name="item45"></a>
 ### ProductProfile.js
 
 Componete que describe a detalles las caracteristicas del producto, como su nombre lo indica hace referencia a detalles especificos del mismo.
@@ -509,7 +398,7 @@ Componete que describe a detalles las caracteristicas del producto, como su nomb
 ![](https://i.imgur.com/KFBRShp.png)
 [Subir](#top)
 
-<a name="item45"></a>
+<a name="item46"></a>
 ### ProductsAdsSlider.js
 
 Componente con efecto slider para mostrar las card de ofertas y productos
@@ -517,7 +406,7 @@ Componente con efecto slider para mostrar las card de ofertas y productos
 ![](https://i.imgur.com/axG1Jdh.png)
 [Subir](#top)
 
-<a name="item46"></a>
+<a name="item47"></a>
 ### ProductsCollection.js
 
 Componete padre que se encarga de distribuir los demas componentes hijos para su distribucion en la vista ademas donde se redireciona a una vista mas detallada del producto.
@@ -525,7 +414,7 @@ Componete padre que se encarga de distribuir los demas componentes hijos para su
 ![](https://i.imgur.com/XYb9dto.png)
 [Subir](#top)
 
-<a name="item47"></a>
+<a name="item48"></a>
 ### ProductsFilters.js
 
 Componente encargado de filtrar los resultados ya se a por por ratin caregoria y etiqueta
@@ -533,7 +422,7 @@ Componente encargado de filtrar los resultados ya se a por por ratin caregoria y
 ![](https://i.imgur.com/NRPjoUX.png)
 [Subir](#top)
 
-<a name="item48"></a>
+<a name="item49"></a>
 ### ProductsGrid.js
 
 Componente donde se visualizan los elementos por grilla
@@ -541,7 +430,7 @@ Componente donde se visualizan los elementos por grilla
 ![](https://i.imgur.com/bNABrAp.png)
 [Subir](#top)
 
-<a name="item49"></a>
+<a name="item50"></a>
 ### QuestionsAnswer.js
 
 Componente usado para que los clientes hagan preguntas a los tiendas sobre cualquier duda que tengan.
@@ -549,7 +438,7 @@ Componente usado para que los clientes hagan preguntas a los tiendas sobre cualq
 ![](https://i.imgur.com/DcsMxJe.png)
 [Subir](#top)
 
-<a name="item50"></a>
+<a name="item51"></a>
 ### 
 
 

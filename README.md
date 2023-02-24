@@ -63,6 +63,36 @@ npm run start
 * [ProductsFilters.js](#item49)
 * [ProductsGrid.js](#item50)
 * [QuestionsAnswer.js](#item51)
+* [SearchAddressFilter.js](#item52)
+* [SearchInputMobile.js](#item53)
+* [SectionHeading.js](#item54)
+* [Select.js](#item55)
+* [SelectDeliverySection.js](#item56)
+* [SelectGridMode.js](#item57)
+* [ShareIcon.js](#item58)
+* [ShowsFeaturedProducts.js](#item59)
+* [StarIcon.js](#item60)
+* [StoreCard.js](#item61)
+* [StoreCategoryFilter.js](#item62)
+* [StoreHorizontalCard.js](#item63)
+* [StoresCollection.js](#item64)
+* [StoresFilters.js](#item65)
+* [SuperMarketsFeaturedProducts.js](#item66)
+* [TableBody.js](#item67)
+* [TableCell.js](#item68)
+* [TableHead.js](#item69)
+* [TableRow.js](#item80)
+* [TextField.js](#item81)
+* [UserAddressCard.js](#item82)
+* [Componente usado para la informacion de las direcciones del cliente](#item83)
+* [VideoComponent.js](#item84)
+* [WhatsappIcon.js](#item85)
+* [WidgetComponent.js](#item86)
+* [logOutModal.js](#item87)
+* [statCard.js](#item88)
+* [StoreNewPost.js](#item89)
+* [Checkbox.js](#item90)
+* [TabContainer.js](#item91)
 
 
 <a name="item4"></a>
@@ -439,8 +469,225 @@ Componente usado para que los clientes hagan preguntas a los tiendas sobre cualq
 [Subir](#top)
 
 <a name="item51"></a>
-### 
+### SearchAddressFilter.js
 
+Componente que filtra las ubicaciones de los envios por ubicacion.
 
 ![]()
+[Subir](#top)
+
+<a name="item52"></a>
+### SearchInputMobile.js
+
+Componente que al colocarse en modo de dispositivos moviles abre una ventana para ejecutar las funciones de buscardor.
+
+![]()
+[Subir](#top)
+
+<a name="item53"></a>
+### SectionHeading.js
+
+Componente que se encarga de Cabecera por cada seccion del sitio.
+
+![]()
+[Subir](#top)
+
+<a name="item54"></a>
+### Select.js
+
+Componente donde se selecciona el numero de telefono y el codigo del pais al que pertenece el cliente.
+
+![]()
+[Subir](#top)
+
+
+<a name="item55"></a>
+### SelectDeliverySection.js
+
+Componente usado para visualizacion del detalle del delivery cuando el cliente realiza la compra.
+
+![]()
+[Subir](#top)
+
+
+<a name="item56"></a>
+### SelectGridMode.js
+
+Componente encargado para los modos de visualizacion ya sea estilo grilla o por modo lista y su respectiva ubicacion en el mapa.
+
+![]()
+[Subir](#top)
+<a name="item57"></a>
+### ShareIcon.js
+
+Componente no utilizado.
+
+![]()
+[Subir](#top)
+
+
+<a name="item58"></a>
+### ShowsFeaturedProducts.js
+
+Componente que se encarga de mostrar los productos destacados de la categoria espectaculos.
+
+![]()
+[Subir](#top)
+
+
+<a name="item59"></a>
+### StarIcon.js
+
+Componete usado como componete padre para el icono star para luego usarlo para el rating.
+
+![](https://i.imgur.com/64aH7g6.png)
+[Subir](#top)
+
+
+<a name="item60"></a>
+### StoreCard.js
+
+Componente donde se visualiza una informacion de una tienda especifica alli se describen ciertas caracteristicas como el ranking, descuento, nombre, ademas si se encuentra abierta o cerrada.
+
+![]()
+[Subir](#top)
+
+
+<a name="item61"></a>
+### StoreCategoryFilter.js
+
+Componete padre que muestra los componetes filtros hijo en en el siderbar.
+
+![]()
+[Subir](#top)
+
+
+<a name="item62"></a>
+### StoreHorizontalCard.js
+
+Componente donde se visualiza la informacion del producto cuando el usuario elige la vista en modo lista alli se aprecian varios items como items, productos, descuentos, ubicacion.
+
+![](https://i.imgur.com/cGnp1gh.png)
+[Subir](#top)
+
+
+<a name="item63"></a>
+### StoresCollection.js
+
+Componente donde muestra las tiendas almacenadas en el sitio, directamente desde la base de datos.
+
+![](https://i.imgur.com/3TuddIO.png)
+[Subir](#top)
+
+<a name="item64"></a>
+### StoresFilters.js
+
+Componete que filtra los elementos por las categorias del sitio.
+
+![]()
+[Subir](#top)
+<a name="item65"></a>
+### SuperMarketsFeaturedProducts.js
+
+Componete que muestra los productos destacados de la categoria supermercados.
+
+![]()
+[Subir](#top)
+
+<a name="item66"></a>
+### TableBody.js
+
+Componente padre donde se colocan los elementos, es el cuerpo de los elementos.
+
+![](https://i.imgur.com/v6ZnQbE.png)
+[Subir](#top)
+
+<a name="item67"></a>
+### TableCell.js
+
+Componete que define las celdas que estan el grid del elemento.
+
+![](https://i.imgur.com/ZzSsmee.png)
+[Subir](#top)
+
+<a name="item68"></a>
+### TableHead.js
+
+Componente padre que se usa definir un layout para separar el espacio de todos los elementos items.
+
+![]()
+[Subir](#top)
+
+<a name="item69"></a>
+### TableRow.js
+
+Componente que se usa definir un layout para separar items.
+
+![](https://i.imgur.com/mibkJ9U.png)
+[Subir](#top)
+
+<a name="item70"></a>
+### TextField.js
+
+Componente usado para colocar el Campo de Texto.
+
+![]()
+[Subir](#top)
+
+<a name="item71"></a>
+### Componente usado para la informacion de las direcciones del cliente
+
+Description
+
+![]()
+[Subir](#top)
+
+<a name="item72"></a>
+### VideoComponent.js
+
+Componete que muestra el video del producto elegido.
+
+![](https://i.imgur.com/EZ1W10b.png)
+[Subir](#top)
+
+
+<a name="item73"></a>
+### WidgetComponent.js
+
+Componente usado para facilitar y darle un sentido mas dinamicos a los elementos del sitio en el dinamismo del texto.
+
+![](https://i.imgur.com/6mgQWwt.png)
+[Subir](#top)
+
+<a name="item74"></a>
+### logOutModal.js
+
+componente que abre una ventana emergente para cerrar sesion
+
+![]()
+[Subir](#top)
+
+
+<a name="item75"></a>
+### StoreNewPost.js
+
+Componente que se encarga de visualizar los nuevos posteos de las tiendas de sus respectivos productos o eventos.
+
+![]()
+[Subir](#top)
+
+<a name="item76"></a>
+### Checkbox.js
+
+Elemento para tildar para selecionar un elento y asi filtrar una busqueda.
+
+![](https://i.imgur.com/vO27pDw.png)
+[Subir](#top)
+
+<a name="item77"></a>
+### TabContainer.js
+
+Componente layout usado para dividir elementos por pestañas, y es el encargado de la estructura de la tab.
+
+![](https://imgur.com/a/kSdLskT)
 [Subir](#top)
